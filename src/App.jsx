@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+      <h1>Star Rating</h1>
       <Rating></Rating>
     </>
   );
