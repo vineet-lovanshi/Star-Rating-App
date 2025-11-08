@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Star Rating</h1>
+      <h1>Star Rating App</h1>
       <Rating></Rating>
     </>
   );
